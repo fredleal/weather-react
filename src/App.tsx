@@ -36,7 +36,7 @@ function App() {
 
       weather.temperature = temperature.split('+').pop() as string
 
-      weather.forecast = weather.forecast.map((day: { temperature: string }) => (
+      weather.forecast = weather.forecast.map(day => (
         {...day, temperature: day.temperature.split('+').pop() as string })
       )
 
