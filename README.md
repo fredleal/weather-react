@@ -1,4 +1,4 @@
-#WEB APP DE PREVISÃO DO TEMPO
+:umbrella:WEB APP DE PREVISÃO DO TEMPO
 
 -  Node.js
 -  Como iniciar projeto React de maneira simples:
@@ -18,4 +18,4 @@
 
 ## 💻 Image
 
-<img src="https://imgur.com/WsgOgDb" />
+<img src="https://i.imgur.com/WsgOgDb.png" />
