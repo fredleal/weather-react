@@ -18,4 +18,4 @@
 
 ## 💻 Image
 
-<img src="https://imgur.com/a/UiDtFwS" />
+<img src="https://imgur.com/WsgOgDb" />
