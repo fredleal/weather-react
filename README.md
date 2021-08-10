@@ -7,9 +7,6 @@
   - Vite :
   ```npm init vite@latest```
 -  Requisições HTTP p/ consumir dados
--  Estado no React
--  Fluxo de Renderização do React
--  Renderização condicional
 -  Realizar chamada à API assim que componente for montado (cidade padrão)
 
 ## 💻 Image
